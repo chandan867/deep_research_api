@@ -1,3 +1,5 @@
+## Adding an api layer to deep reaseach code- Credit to (https://x.com/dzhng)
+
 # Open Deep Research
 
 An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
